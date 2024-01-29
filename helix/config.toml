@@ -1,0 +1,13 @@
+theme = "everforest_dark"
+
+[editor]
+bufferline = "multiple"
+rulers = [80, 120]
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.whitespace.render]
+space = "all"
+tab = "all"
+newline = "none"
